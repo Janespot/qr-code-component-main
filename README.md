@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-    -[Desktop View](#desktop-view)
-    -[Mobile View](#mobile-view)
+    - [Desktop View](#desktop-view)
+    - [Mobile View](#mobile-view)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
