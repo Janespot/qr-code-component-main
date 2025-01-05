@@ -50,6 +50,6 @@ I would also like to learn Figma for web design.
 
 ## Author
 
-- Website - [Jane Odhiambo](https://janespot.github.io/qr-code-component-main/)
+- Website - [Jane Odhiambo](https://janespot.github.io/)
 - Frontend Mentor - [@Janespot](https://www.frontendmentor.io/profile/Janespot)
 - Twitter - [@Janejunell777](https://x.com/Janejunell777)
