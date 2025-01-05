@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution](https://github.com/Janespot/qr-code-component-main/)
-- Live Site URL: [live site](https://janespot.github.io/qr-code-component-main/)
+- [Solution URL](https://github.com/Janespot/qr-code-component-main/)
+- [Live Site URL](https://janespot.github.io/qr-code-component-main/)
 
 ## My process
 
